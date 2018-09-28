@@ -1,4 +1,5 @@
 # setup golang
+cd ~
 curl -LO https://dl.google.com/go/go1.10.2.linux-amd64.tar.gz
 tar -xvzf go1.10.2.linux-amd64.tar.gz
 
